@@ -55,3 +55,19 @@
   text-align: center;
   width: 34px;
 }
+.status {
+  margin-bottom: 10px;
+}
+.main-content{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  box-sizing: border-box;
+}
+
+.main-content .right-content{
+  margin-left:50px;
+  box-sizing: border-box;
+} 
